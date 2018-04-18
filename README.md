@@ -7,4 +7,4 @@ The [app.py](app.py) code was copied from
 * https://pythonspot.com/flask-web-app-with-python/
 
 The requirements file was created via
-```pip freeze > requirements.pip```
+```pip freeze > ```[requirements.txt](requirements.txt)
